@@ -1094,6 +1094,8 @@ body {
     align-items: center;
     padding: 0;
     
+    position: relative;
+    
     width: 100vw;
     height: 640px;
 }
