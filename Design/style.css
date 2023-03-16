@@ -1605,6 +1605,8 @@ body {
     flex-direction: row;
     align-items: flex-start;
     gap: 10px;
+    
+    cursor: pointer;
 }
 
 .footer-explore {
