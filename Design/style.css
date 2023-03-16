@@ -1605,7 +1605,9 @@ body {
     flex-direction: row;
     align-items: flex-start;
     gap: 10px;
-    
+}
+
+.comunity-icon {
     cursor: pointer;
 }
 
@@ -1870,6 +1872,76 @@ body {
 
     .artist-cards-media {
         display: none;
+    }
+
+    .discover {
+        height: 1000px;
+    }
+
+    .discover-body {
+        flex-direction: column;
+    }
+
+    .discover-card {
+        width: 100%;
+    }
+
+    .card-to-hide {
+        display: block;
+    }
+
+    .highlight-info {
+        gap: 20%;
+    }
+
+    .highlight-nft-artist {
+        height: 140%;
+    }
+
+    .highlight-nft-btn {
+        width: 46.22%;
+        font-size: 1.771vw;
+    }
+
+    .highlight-nft-btn-icon {
+        width: 15%;
+        height: 50%;
+    }
+
+    .highlight-artist-card {
+        width: 34%;
+        height: 20%;
+    }
+
+    .highlight-artist-card img {
+        width: 25%;
+        height: 90%;
+    }
+
+    .footer {
+        min-height: 575px;
+    }
+
+    .footer-info {
+        flex-direction: column;
+        gap: 11%;
+    }
+
+    .footer-main {
+        width: 100%;
+        gap: 13%;
+    }
+
+    .footer-main-aditional-info {
+        width: 100%;
+    }
+
+    .footer-p {
+        font-size: 1.771vw;
+    }
+
+    .footer-subscribe {
+        margin-top: -5%;
     }
 }
 /* Mobile Design end */
